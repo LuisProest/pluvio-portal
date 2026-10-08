@@ -1,0 +1,13 @@
+{
+ "versao": "1.2",
+ "codigo": 3,
+ "data": "2026-10-08",
+ "tamanho": 5891950,
+ "sha256": "000c6a4b7f837f58c70d2f06cc3e8d7d383fce18cdecd0eba25602d3f1c98abd",
+ "apk": "https://pluvio.tec.br/downloads/Pluvio.apk",
+ "ios": "https://apps.apple.com/br/app/pluvio/id6794917631",
+ "novidades": [
+  "Ao lançar a chuva de hoje ou de ontem num pluviômetro sem localização, o app pergunta \"Onde você está agora?\". Junto do pluviômetro, um toque grava o local com o GPS.",
+  "O local não é gravado quando o sinal do GPS está fraco, e o app avisa se o ponto cair muito perto de outro pluviômetro da fazenda."
+ ]
+}
